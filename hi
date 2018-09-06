@@ -3,4 +3,8 @@ how r u
 fine thanks
 
 First STASH
+<<<<<<< Updated upstream
 SECOND STASH
+=======
+Git Stash THIRD 
+>>>>>>> Stashed changes
