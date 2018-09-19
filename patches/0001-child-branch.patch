@@ -1,0 +1,19 @@
+From f53e21de4330408e825ac9a5016657d8ecf76f59 Mon Sep 17 00:00:00 2001
+From: kumar1802 <36292420+kumar1802@users.noreply.github.com>
+Date: Wed, 19 Sep 2018 16:01:11 +0530
+Subject: [PATCH 1/2] child branch
+
+---
+ hi | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/hi b/hi
+index 45b983b..e6a82da 100644
+--- a/hi
++++ b/hi
+@@ -1 +1,2 @@
+ hi
++child branch
+-- 
+2.7.4
+
